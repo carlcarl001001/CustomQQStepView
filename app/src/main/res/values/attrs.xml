@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <attr name="cText" format="string"/>
+        <attr name="RoundColor" format="color"/>
+        <attr name="ProgressColor" format="color"/>
+        <attr name="RoundWidth" format="integer"/>
+        <attr name="StartAngle" format="integer"/>
+        <attr name="SweepAngle" format="integer"/>
+        <attr name="ProgressStep" format="integer"/>
+        <attr name="MaxStep" format="integer"/>
+        <attr name="TextSize" format="dimension"/>
+        <attr name="TextColor" format="color"/>
+
+
+    </declare-styleable>
+
+
+
+</resources>
